@@ -13,6 +13,9 @@ Listed below, you will find all the certificates earned in the courses I took.
 [Microsoft Azure Developer: Implement IaaS Solutions](#microsoft_azure_developer_implement_IaaS_solutions) </br> 
 [Microsoft Azure Services and Concepts](#microsoft_azure_services_and_concepts) </br>
 [Microsoft Azure Cloud Concepts](#microsoft_azure_cloud_concepts) </br>
+[Business Analyst: Project Management Techniques and Tools](#ba_project_management_techniques_and_tools) </br>
+[Business Analyst: Software Testing Processes & Techniques](#ba__Software_Testing_Processes_Techniques) </br>
+[The Complete Oracle SQL Certification Course](#complete_oracle_sql_certification) </br>
 
 
 <a name="asp_net_core_expert">
@@ -83,3 +86,24 @@ Course duration: 0h38min <br>
 Issued on: September 16, 2021 <br>
 Course link: https://app.pluralsight.com/library/courses/microsoft-azure-cloud-concepts/table-of-contents <br>
 See certificate: https://drive.google.com/file/d/1Gr9tkrxnF5Rc2CJMKMhnU4V48P40i91u/view?usp=sharing <br>
+
+<a name="ba_project_management_techniques_and_tools">
+<h2>Business Analyst: Project Management Techniques and Tools</h2></a>
+Course duration: 5h00min <br>
+Issued on: January 7, 2020 <br>
+Course link: https://www.udemy.com/course/project-management-for-business-analyst/ <br>
+See certificate: https://www.udemy.com/certificate/UC-1HD8NDE5/ <br>
+
+<a name="ba__Software_Testing_Processes_Techniques">
+<h2>Business Analyst: Software Testing Processes & Techniques</h2></a>
+Course duration: 3h00min <br>
+Issued on: January 6, 2020 <br>
+Course link: https://www.udemy.com/course/software-testing-business-analyst/ <br>
+See certificate: https://www.udemy.com/certificate/UC-C79Z4TD9/ <br>
+
+<a name="complete_oracle_sql_certification">
+<h2>The Complete Oracle SQL Certification Course</h2></a>
+Course duration: 16h30min <br>
+Issued on: September 26, 2019 <br>
+Course link: https://www.udemy.com/course/the-complete-oracle-sql-certification-course/ <br>
+See certificate: https://www.udemy.com/certificate/UC-B417S3EX/ <br>
