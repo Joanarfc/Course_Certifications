@@ -14,6 +14,7 @@ Listed below, you will find all the certificates earned in the courses I took.
 [Starting with ASP.NET Core](#iniciando_com_asp_net_core) </br>
 
 ### DATABASES
+[SQL For Developers](#sql_developers) </br>
 [The Complete Oracle SQL Certification Course](#complete_oracle_sql_certification) </br>
 
 ### SCRUM
@@ -71,6 +72,13 @@ Course duration: 2h <br>
 Issued on: August 14, 2022 <br>
 Course link: https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core <br>
 See certificate: https://desenvolvedor.io/certificados/170ab776-1a4e-4e67-98b1-eea066a72b04/validar <br>
+
+<a name="sql_developers">
+<h3>SQL For Developers</h3></a>
+Course duration: 6h <br>
+Issued on: March 15, 2023 <br>
+Course link: https://desenvolvedor.io/curso-online-sql-para-desenvolvedores <br>
+See certificate: https://desenvolvedor.io/certificados/f2553fe3-20b5-48fa-9e61-6de08d0c26ac/validar <br>
 
 <a name="complete_oracle_sql_certification">
 <h3>The Complete Oracle SQL Certification Course</h3></a>
