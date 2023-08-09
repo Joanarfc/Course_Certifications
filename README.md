@@ -12,10 +12,22 @@ Listed below, you will find all the certificates earned in the courses I took.
 [REST with ASP.NET Core WebAPI](#rest_com_asp_net_core_webapi) </br> 
 [Mastering ASP.NET MVC Core](#dominando_o_asp_net_mvc_core) </br> 
 [Starting with ASP.NET Core](#iniciando_com_asp_net_core) </br>
+[ASP NET MVC Core](#asp_net_core) </br>
+
+### C#
+[Object Oriented Programming with C#](#c_sharp) </br>
 
 ### DATABASES
 [SQL For Developers](#sql_developers) </br>
+[Data Access with ADO.NET](#data_access_adonet) </br>
 [The Complete Oracle SQL Certification Course](#complete_oracle_sql_certification) </br>
+
+### DevOps
+[Introduction to Software Development with DevOps Server](#devops_server) </br>
+
+### HTML, CSS and Javascript
+[HTML5, CSS & JavaScript Fundamentals](#html_css_js_fundamentals) </br>
+[HTML5 and CSS3 Fundamentals](#html_and_css_fundamentals) </br>
 
 ### SCRUM
 [Preparatory course for certifications PSM I and PSPO I](#preparatory_course_for_PSMI_and_PSPOI) </br>
@@ -25,10 +37,15 @@ Listed below, you will find all the certificates earned in the courses I took.
 [Microsoft Azure Developer: Implement IaaS Solutions](#microsoft_azure_developer_implement_IaaS_solutions) </br> 
 [Microsoft Azure Services and Concepts](#microsoft_azure_services_and_concepts) </br>
 [Microsoft Azure Cloud Concepts](#microsoft_azure_cloud_concepts) </br>
+[Developing Solutions for Microsoft Azure](#developing_solutions_microsoft_azure) </br>
+[Developing Azure Fundamentals and Web Services](#developing_azure_fundamentals_and_web_services) </br>
 
 ### BUSINESS ANALYSIS
 [Business Analyst: Project Management Techniques and Tools](#ba_project_management_techniques_and_tools) </br>
 [Business Analyst: Software Testing Processes & Techniques](#ba__Software_Testing_Processes_Techniques) </br>
+
+### EXCEL
+[Problem Solving with Excel](#excel) </br>
 
 ## CERTIFICATES 
 <a name="cs50">
@@ -73,6 +90,12 @@ Issued on: August 14, 2022 <br>
 Course link: https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core <br>
 See certificate: https://desenvolvedor.io/certificados/170ab776-1a4e-4e67-98b1-eea066a72b04/validar <br>
 
+<a name="asp_net_core">
+<h3>ASP NET MVC Core</h3></a>
+Course duration: 21h <br>
+Issued on: July 08, 2021 <br>
+See certificate: https://www.credly.com/badges/ded958c1-a63b-4e3e-bc81-56049636e504?source=linked_in_profile <br>
+
 <a name="sql_developers">
 <h3>SQL For Developers</h3></a>
 Course duration: 6h <br>
@@ -80,12 +103,43 @@ Issued on: March 15, 2023 <br>
 Course link: https://desenvolvedor.io/curso-online-sql-para-desenvolvedores <br>
 See certificate: https://desenvolvedor.io/certificados/f2553fe3-20b5-48fa-9e61-6de08d0c26ac/validar <br>
 
+<a name="c_sharp">
+<h3>Object Oriented Programming with C#</h3></a>
+Course duration: 27h <br>
+Issued on: April 06, 2021 <br>
+See certificate: https://www.credly.com/badges/0166ad12-2a72-49ea-9029-145241aef633?source=linked_in_profile <br>
+
+<a name="data_access_adonet">
+<h3>Data Access with ADO.NET</h3></a>
+Course duration: 21h <br>
+Issued on: April 29, 2021 <br>
+See certificate: https://www.credly.com/badges/b0325313-bc57-4fb5-bad7-91a6361d7a31?source=linked_in_profile <br>
+
 <a name="complete_oracle_sql_certification">
 <h3>The Complete Oracle SQL Certification Course</h3></a>
 Course duration: 16h30min <br>
 Issued on: September 26, 2019 <br>
 Course link: https://www.udemy.com/course/the-complete-oracle-sql-certification-course/ <br>
 See certificate: https://www.udemy.com/certificate/UC-B417S3EX/ <br>
+
+<a name="devops_server">
+<h3>Introduction to Software Development with DevOps Server</h3></a>
+Course duration: 6h <br>
+Issued on: February 27, 2021 <br>
+See certificate: https://www.credly.com/badges/83422f97-13d3-486d-8d0a-b4364184f12a?source=linked_in_profile <br>
+
+<a name="html_css_js_fundamentals">
+<h3>HTML5, CSS & JavaScript Fundamentals</h3></a>
+Course duration: 21h <br>
+Issued on: May 25, 2021 <br>
+See certificate: https://www.credly.com/badges/3e126eeb-8698-4ca0-b115-65d7f0d10933?source=linked_in_profile <br>
+
+<a name="html_and_css_fundamentals">
+<h3>HTML5 and CSS3 Fundamentals</h3></a>
+Course duration: 4h54min <br>
+Issued on: July 8, 2019 <br>
+Course link: https://www.udemy.com/course/html5-fundamentals-for-beginners/ <br>
+See certificate: https://www.udemy.com/certificate/UC-ASJIP17E/ <br>
 
 <a name="preparatory_course_for_PSMI_and_PSPOI">
 <h3>Preparatory course for certifications PSM I and PSPO I</h3></a>
@@ -121,6 +175,18 @@ Issued on: September 16, 2021 <br>
 Course link: https://app.pluralsight.com/library/courses/microsoft-azure-cloud-concepts/table-of-contents <br>
 See certificate: https://drive.google.com/file/d/1Gr9tkrxnF5Rc2CJMKMhnU4V48P40i91u/view?usp=sharing <br>
 
+<a name="developing_solutions_microsoft_azure">
+<h3>Developing Solutions for Microsoft Azure</h3></a>
+Course duration: 36h <br>
+Issued on: October 07, 2021 <br>
+See certificate: https://www.credly.com/badges/70a31260-e93f-403a-8591-65c0eb313eda?source=linked_in_profile <br>
+
+<a name="developing_azure_fundamentals_and_web_services">
+<h3>Developing Azure Fundamentals and Web Services</h3></a>
+Course duration: 18h <br>
+Issued on: July 27, 2021 <br>
+See certificate: https://www.credly.com/badges/1fb4eee8-62c1-4e09-9e76-d59741c9d043?source=linked_in_profile <br>
+
 <a name="ba_project_management_techniques_and_tools">
 <h3>Business Analyst: Project Management Techniques and Tools</h3></a>
 Course duration: 5h00min <br>
@@ -134,3 +200,10 @@ Course duration: 3h00min <br>
 Issued on: January 6, 2020 <br>
 Course link: https://www.udemy.com/course/software-testing-business-analyst/ <br>
 See certificate: https://www.udemy.com/certificate/UC-C79Z4TD9/ <br>
+
+<a name="excel">
+<h3>Problem Solving with Excel</h3></a>
+Course duration: 20h <br>
+Issued on: October 21, 2017 <br>
+Course link: https://www.coursera.org/learn/excel-analysis <br>
+See certificate: https://www.coursera.org/account/accomplishments/verify/AVTXP3D5ENKD <br>
