@@ -2,21 +2,40 @@
 Listed below, you will find all the certificates earned in the courses I took.
 
 
-## Table of Contents  
+## TABLE OF CONTENTS  
+### COMPUTER SCIENCE
+[CS50: Introduction to Computer Science](#cs50) </br>
+
+### ASP.NET Core
 [ASP.NET Core Expert](#asp_net_core_expert) </br>
 [ASP.NET Core Enterprise Applications](#asp_net_core_enterprise_applications) </br> 
 [REST with ASP.NET Core WebAPI](#rest_com_asp_net_core_webapi) </br> 
 [Mastering ASP.NET MVC Core](#dominando_o_asp_net_mvc_core) </br> 
 [Starting with ASP.NET Core](#iniciando_com_asp_net_core) </br>
+
+### DATABASES
+[The Complete Oracle SQL Certification Course](#complete_oracle_sql_certification) </br>
+
+### SCRUM
 [Preparatory course for certifications PSM I and PSPO I](#preparatory_course_for_PSMI_and_PSPOI) </br>
+
+### Microsoft Azure
 [Microsoft Azure Security and Privacy Concepts](#microsoft_azure_security_and_privacy_concepts) </br>
 [Microsoft Azure Developer: Implement IaaS Solutions](#microsoft_azure_developer_implement_IaaS_solutions) </br> 
 [Microsoft Azure Services and Concepts](#microsoft_azure_services_and_concepts) </br>
 [Microsoft Azure Cloud Concepts](#microsoft_azure_cloud_concepts) </br>
+
+### BUSINESS ANALYSIS
 [Business Analyst: Project Management Techniques and Tools](#ba_project_management_techniques_and_tools) </br>
 [Business Analyst: Software Testing Processes & Techniques](#ba__Software_Testing_Processes_Techniques) </br>
-[The Complete Oracle SQL Certification Course](#complete_oracle_sql_certification) </br>
 
+
+<a name="cs50">
+<h2>CS50: Introduction to Computer Science</h2></a>
+Course duration: 11 weeks<br>
+Issued on: 2023<br>
+Course link: [https://desenvolvedor.io/formacao/asp-net-core-expert](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) <br>
+See certificate: https://certificates.cs50.io/24f85db6-fcf6-434c-b994-beec71fe9f80.pdf?size=letter <br>
 
 <a name="asp_net_core_expert">
 <h2>ASP.NET Core Expert</h2></a>
@@ -52,6 +71,13 @@ Course duration: 2h <br>
 Issued on: August 14, 2022 <br>
 Course link: https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core <br>
 See certificate: https://desenvolvedor.io/certificados/170ab776-1a4e-4e67-98b1-eea066a72b04/validar <br>
+
+<a name="complete_oracle_sql_certification">
+<h2>The Complete Oracle SQL Certification Course</h2></a>
+Course duration: 16h30min <br>
+Issued on: September 26, 2019 <br>
+Course link: https://www.udemy.com/course/the-complete-oracle-sql-certification-course/ <br>
+See certificate: https://www.udemy.com/certificate/UC-B417S3EX/ <br>
 
 <a name="preparatory_course_for_PSMI_and_PSPOI">
 <h2>Preparatory course for certifications PSM I and PSPO I</h2></a>
@@ -100,10 +126,3 @@ Course duration: 3h00min <br>
 Issued on: January 6, 2020 <br>
 Course link: https://www.udemy.com/course/software-testing-business-analyst/ <br>
 See certificate: https://www.udemy.com/certificate/UC-C79Z4TD9/ <br>
-
-<a name="complete_oracle_sql_certification">
-<h2>The Complete Oracle SQL Certification Course</h2></a>
-Course duration: 16h30min <br>
-Issued on: September 26, 2019 <br>
-Course link: https://www.udemy.com/course/the-complete-oracle-sql-certification-course/ <br>
-See certificate: https://www.udemy.com/certificate/UC-B417S3EX/ <br>
