@@ -30,6 +30,7 @@ Listed below, you will find all the certificates earned in the courses I took.
 [HTML5 and CSS3 Fundamentals](#html_and_css_fundamentals) </br>
 
 ### SCRUM
+[SCRUM Foundation - Professional Certification SFPC](#scrum_certification_SFPC) </br>
 [Preparatory course for certifications PSM I and PSPO I](#preparatory_course_for_PSMI_and_PSPOI) </br>
 
 ### Microsoft Azure
@@ -140,6 +141,12 @@ Course duration: 4h54min <br>
 Issued on: July 8, 2019 <br>
 Course link: https://www.udemy.com/course/html5-fundamentals-for-beginners/ <br>
 See certificate: https://www.udemy.com/certificate/UC-ASJIP17E/ <br>
+
+<a name="scrum_certification_SFPC">
+<h3>SCRUM - Professional Certification SFPC</h3></a>
+Exam grade: 93% <br>
+Issued on: August 16, 2023 <br>
+See certificate: https://drive.google.com/file/d/1obCHC9m4wTeNApvjyqpD6bYClD9TNex0/view?usp=drive_link <br>
 
 <a name="preparatory_course_for_PSMI_and_PSPOI">
 <h3>Preparatory course for certifications PSM I and PSPO I</h3></a>
