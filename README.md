@@ -23,6 +23,7 @@ Listed below, you will find all the certificates earned in the courses I took.
 [The Complete Oracle SQL Certification Course](#complete_oracle_sql_certification) </br>
 
 ### DevOps
+[Introduction to DevOps](#devops_intro) </br>
 [Introduction to Software Development with DevOps Server](#devops_server) </br>
 
 ### HTML, CSS and Javascript
@@ -122,6 +123,12 @@ Course duration: 16h30min <br>
 Issued on: September 26, 2019 <br>
 Course link: https://www.udemy.com/course/the-complete-oracle-sql-certification-course/ <br>
 See certificate: https://www.udemy.com/certificate/UC-B417S3EX/ <br>
+
+<a name="devops_intro">
+<h3>Introduction to DevOps</h3></a>
+Course duration: 4h <br>
+Issued on: October 13, 2023 <br>
+See certificate: https://desenvolvedor.io/certificados/b6ed2b83-aeb5-4020-9b4b-94526a5c3716/validar <br>
 
 <a name="devops_server">
 <h3>Introduction to Software Development with DevOps Server</h3></a>
